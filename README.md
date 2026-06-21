@@ -24,4 +24,4 @@ Developed an interactive Power BI dashboard to analyze operational performance o
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
